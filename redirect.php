@@ -1,2 +1,2 @@
-header('Location: separate_tracks_website/Home.php');
+header('Location: root/Home.php');
 exit;
